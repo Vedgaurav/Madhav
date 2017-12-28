@@ -1,0 +1,55 @@
+ <!-- booking check   
+                                      
+                                      
+                                      <div class="demo">   
+ 
+                                      <form action="#">
+                                      <div id="select">
+                                        <fieldset>
+                                          <label for="speed"><b><font color="white">Select an urgency</font></b></label>
+                                          <select name="speed" id="speed">
+                                            <option>Anytime</option>
+                                            <option>Future Booking</option>
+                                            <option selected="selected">Grand</option>
+                                            <option>5star</option>
+                                            <option>7star</option>
+                                          </select>
+                                      
+                                          <label for="files"><b><font color="white">Select a purpose</b></label>
+                                          <select name="files" id="files">
+                                            <optgroup label="Official reasons">
+                                              <option value="job">Job/Interview stay</option>
+                                              <option value="business">Business issus</option>
+                                            </optgroup>
+                                            <optgroup label="Other reasons">
+                                              <option value="holiday">Holiday</option>
+                                              <option value="someotherfile">other</option>
+                                            </optgroup>
+                                          </select>
+                                      
+                                          <label for="number"><b><font color="white">Select a room for people</font></b></label>
+                                          <select name="number" id="number">
+                                            <option>1</option>
+                                            <option selected="selected">2</option>
+                                            <option>3</option>
+                                            <option>4</option>
+                                            <option>5</option>
+                                            <option>6</option>
+                                            
+                                          
+                                          </select>
+                                      
+                                          <label for="salutation"><b><font color="white">Payment</font></b></label>
+                                          <select name="salutation" id="salutation">
+                                            <option disabled selected>Please pick one payment method</option>
+                                            <option>Cash</option>
+                                            <option>Mastercard.</option>
+                                            <option>e-Pay</option>
+                                            <option>Check</option>
+                                            <option>Other</option>
+                                          </select><br><br>
+                                          <input type="submit"/>
+                                        </fieldset>
+                                      </div>
+                                      </div>
+                                      --> 
